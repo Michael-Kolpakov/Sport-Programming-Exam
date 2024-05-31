@@ -1,8 +1,8 @@
 ﻿// Exercise 3: Implement the Game of Life
-Console.WriteLine("Enter the height of the board: ");
+Console.Write("Enter the height of the board: ");
 var height = int.Parse(Console.ReadLine()!);
 
-Console.WriteLine("\nEnter the width of the board: ");
+Console.Write("Enter the width of the board: ");
 var width = int.Parse(Console.ReadLine()!);
 
 var board = new bool[height, width];
