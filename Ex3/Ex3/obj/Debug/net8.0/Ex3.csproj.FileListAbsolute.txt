@@ -1,0 +1,15 @@
+D:\Миша\Спортивне програмування\Sport-Programming-Exam\Ex3\Ex3\bin\Debug\net8.0\Ex3.exe
+D:\Миша\Спортивне програмування\Sport-Programming-Exam\Ex3\Ex3\bin\Debug\net8.0\Ex3.deps.json
+D:\Миша\Спортивне програмування\Sport-Programming-Exam\Ex3\Ex3\bin\Debug\net8.0\Ex3.runtimeconfig.json
+D:\Миша\Спортивне програмування\Sport-Programming-Exam\Ex3\Ex3\bin\Debug\net8.0\Ex3.dll
+D:\Миша\Спортивне програмування\Sport-Programming-Exam\Ex3\Ex3\bin\Debug\net8.0\Ex3.pdb
+D:\Миша\Спортивне програмування\Sport-Programming-Exam\Ex3\Ex3\obj\Debug\net8.0\Ex3.GeneratedMSBuildEditorConfig.editorconfig
+D:\Миша\Спортивне програмування\Sport-Programming-Exam\Ex3\Ex3\obj\Debug\net8.0\Ex3.AssemblyInfoInputs.cache
+D:\Миша\Спортивне програмування\Sport-Programming-Exam\Ex3\Ex3\obj\Debug\net8.0\Ex3.AssemblyInfo.cs
+D:\Миша\Спортивне програмування\Sport-Programming-Exam\Ex3\Ex3\obj\Debug\net8.0\Ex3.csproj.CoreCompileInputs.cache
+D:\Миша\Спортивне програмування\Sport-Programming-Exam\Ex3\Ex3\obj\Debug\net8.0\Ex3.sourcelink.json
+D:\Миша\Спортивне програмування\Sport-Programming-Exam\Ex3\Ex3\obj\Debug\net8.0\Ex3.dll
+D:\Миша\Спортивне програмування\Sport-Programming-Exam\Ex3\Ex3\obj\Debug\net8.0\refint\Ex3.dll
+D:\Миша\Спортивне програмування\Sport-Programming-Exam\Ex3\Ex3\obj\Debug\net8.0\Ex3.pdb
+D:\Миша\Спортивне програмування\Sport-Programming-Exam\Ex3\Ex3\obj\Debug\net8.0\Ex3.genruntimeconfig.cache
+D:\Миша\Спортивне програмування\Sport-Programming-Exam\Ex3\Ex3\obj\Debug\net8.0\ref\Ex3.dll
